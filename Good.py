@@ -17,3 +17,10 @@ print(type(flg))
 
 c = [10, 20]
 print(type(c))
+
+d = {}
+print(type(d))
+
+e = ()
+print(type(e))
+
