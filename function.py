@@ -10,8 +10,13 @@
 # say_hello2("今西")
 
 
-def calc_square(side):
-   return side*side
 
-calc_square(10)
+
+def calc_square(side):
+    return side*side
+
+result = calc_square(10)
+
+print(result)
+
 
