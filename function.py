@@ -12,10 +12,10 @@
 
 
 
-def calc_square(side):
-    return side*side
+# def calc_square(side):
+#     return side*side
 
-result = calc_square(10)
-print(result)
+# result = calc_square(10)
+# print(result)
 
 
