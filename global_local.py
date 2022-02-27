@@ -8,9 +8,9 @@
 # # say_someting()
 
 
-message1 = "こんばんは、私は吉川です。"
-def say_someting1():
-    print(message1)
+# message1 = "こんばんは、私は吉川です。"
+# def say_someting1():
+#     print(message1)
 
-say_someting1()
+# say_someting1()
 
